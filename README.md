@@ -42,6 +42,14 @@ cd ready-to-start-React-MaterialUI-Framework
 npm install
 ```
 
+```bash
+npm start
+```
+
+```bash
+npm run build
+```
+
 Open your web browser and access the application at `http://localhost:3000/`
 
 ## Contact
