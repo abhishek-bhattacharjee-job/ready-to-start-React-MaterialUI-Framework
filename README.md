@@ -2,11 +2,11 @@
 
 This is a UI code base using - Material UI - integrated into React.
 
-## 1. When this could be usefull?
+## When this could be usefull?
 
 You want to start a new project develpoment work using React and Material UI.
 
-## 2. Why this repo?
+## Why this repo?
 
 Several times I have seen people are spending much times for initial setup while starting development for a new project.
 
@@ -15,7 +15,7 @@ we had to go to the react and material sites and recall what to do for integrati
 
 Some times I have seen people copying previous project's code for quick start - this could lead data breach of the previous project.
 
-## 3. What you would get in this repo?
+## What you would get in this repo?
 
 1. You would get a Ready-to-Start React code base
 2. Material UI is integrated into this React code base
@@ -26,7 +26,7 @@ Some times I have seen people copying previous project's code for quick start - 
 7. A page with a Material Tablestructure
 Etc.
 
-## 4. How to use it?
+## How to use it?
 
 Clone this repo and start your development work.
 
